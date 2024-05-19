@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **a number of flutter projects**
 
-- 🌱 I’m currently learning **Flutter, front-end web development**
+- 🌱 I’m currently learning **Flutter, C++, Data Structures and Algorithms**
 
 - 📫 How to reach me **adg8503@gmail.com**
 
-- ⚡ Fun fact **I love gaming**
+- ⚡ Fun fact **I love gaming and Formula 1 racing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
